@@ -6,7 +6,10 @@
    A resource pack for **Minecraft Java Optifine**, created to replicate the resource pack of the cancelled __Super Duper Graphics Pack__. This resource pack is meant to be use with **Super Duper Vanilla** to completely replicate the full experience. Developed by @Eldeston, and presented by __FlameRender Studios__.
 
 ## Contribution
-   Will be planned soon, but as of right now, it is not open.
+   If you plan to contribute to this project, see [**CONTRIBUTION**](CONTRIBUTION.md) for more info.
+
+## License 
+   This resource pack uses the **GNU GPL 3.0** license. See [**LICENSE**](LICENSE) for more info.
 
 ## About creator
    Try out my other shader for Minecraft Bedrock, ESTN Shaders, on McpeDL!
